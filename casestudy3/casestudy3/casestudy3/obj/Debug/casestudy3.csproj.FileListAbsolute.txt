@@ -1,0 +1,8 @@
+C:\c#.net\c#\casestudy1\casestudy3\casestudy3\casestudy3\bin\Debug\casestudy3.exe.config
+C:\c#.net\c#\casestudy1\casestudy3\casestudy3\casestudy3\bin\Debug\casestudy3.exe
+C:\c#.net\c#\casestudy1\casestudy3\casestudy3\casestudy3\bin\Debug\casestudy3.pdb
+C:\c#.net\c#\casestudy1\casestudy3\casestudy3\casestudy3\obj\Debug\casestudy3.csproj.AssemblyReference.cache
+C:\c#.net\c#\casestudy1\casestudy3\casestudy3\casestudy3\obj\Debug\casestudy3.csproj.CoreCompileInputs.cache
+C:\c#.net\c#\casestudy1\casestudy3\casestudy3\casestudy3\obj\Debug\casestudy3.exe
+C:\c#.net\c#\casestudy1\casestudy3\casestudy3\casestudy3\obj\Debug\casestudy3.pdb
+C:\c#.net\c#\casestudy1\casestudy3\casestudy3\casestudy3\obj\Debug\casestudy3.csproj.SuggestedBindingRedirects.cache
